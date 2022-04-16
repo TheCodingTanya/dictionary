@@ -9,4 +9,5 @@ p1 = {
 }
 
 drinks = ([p0, p1])  # 用清單drinks 把字典p0, p1裝起來
-print(drinks[0]['name'])
+print(drinks[0]['name']) # '麥香奶茶'
+print(drinks[1]['price']) # 60
