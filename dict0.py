@@ -8,4 +8,5 @@ p1 = {
 	'price': 60
 }
 
-print([p0, p1])
+drinks = ([p0, p1])  # 用清單drinks 把字典p0, p1裝起來
+print(drinks[0])
